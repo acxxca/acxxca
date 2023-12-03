@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>acxxc&#39;s blog</title>
+    <link>https://acxxc.tech/</link>
+    <description>Recent content on acxxc&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 22:04:28 +0800</lastBuildDate><atom:link href="https://acxxc.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://acxxc.tech/posts/my-first-post/</link>
+      <pubDate>Sun, 03 Dec 2023 22:04:28 +0800</pubDate>
+      
+      <guid>https://acxxc.tech/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+1 2 3 试试中文 </description>
+    </item>
+    
+  </channel>
+</rss>

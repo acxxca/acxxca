@@ -1,0 +1,4 @@
+baseURL = 'https://acxxc.tech/'
+languageCode = 'en-us'
+title = "acxxc's blog"
+theme = 'PaperMod'
